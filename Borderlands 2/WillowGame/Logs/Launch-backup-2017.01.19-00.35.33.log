@@ -1,0 +1,158 @@
+Log: Log file open, 01/18/17 16:04:04
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: I:\1P\8\Borderlands.2.GOTY\Binaries\Win32\
+[0000.36] Log: CPU Page size=4096, Processors=4
+[0000.36] Log: High frequency timer resolution =2.338476 MHz
+[0000.36] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0000.36] Log: STEAMWORKS initialized 1
+[0000.37] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.37] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.37] Log: Object subsystem initialized
+[0000.37] Log:   Steamworks-provided language string: english
+[0000.64] Log: OS stats:
+[0000.64] Log: 	Windows 7 Service Pack 1
+[0000.64] Log: 	RemoteDesktop=0
+[0000.64] Log: Memory stats:
+[0000.64] Log: 	Physical: 3141MB
+[0000.64] Log: 	Virtual: 2047MB
+[0000.64] Log: 	PageFile: 6280MB
+[0000.64] Log: CPU stats:
+[0000.64] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0000.64] Log: 	Hyperthreaded: 1
+[0000.64] Log: 	NumProcessorsPerCPU: 1
+[0000.64] Log: 	NumLogicalProcessors: 4
+[0000.64] Log: 	NumPhysicalProcessors: 8
+[0000.64] Log: 	MaxSpeed: 2401
+[0000.64] Log: 	CurrentSpeed: 2376
+[0000.64] Log: 	CoresPerProcessor: 8
+[0000.64] Log: 	IsOnBattery: 0
+[0000.64] Log: 	BatteryLevel: 98
+[0000.64] Log: 	Manufacturer: Intel
+[0000.64] Log: 	CPUName: INTEL Pentium-III
+[0000.64] Log: 	L1CacheSize: -1
+[0000.64] Log: 	L2CacheSize: -1
+[0000.64] Log: 	Architecture: x86
+[0000.64] Log: GPU stats:
+[0000.64] Log: 	VendorID: 000010DE
+[0000.64] Log: 	DeviceID: 00000DF4
+[0000.64] Log: 	DriverVersion: 9.18.13.4448
+[0000.64] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0000.64] Log: 	DriverName: nvumdshim.dll
+[0000.64] Log: 	PixelShaderVersion: 3
+[0000.64] Log: 	VertexShaderVersion: 3
+[0000.64] Log: 	VRAMQuantity: 1024
+[0000.64] Log: 	DedicatedVRAM: 977
+[0000.64] Log: 	AdapterCount: 1
+[0000.64] Log: 	SupportsHardwareTnL: 1
+[0000.64] Log: 	IsLowMemoryXPMachine: 0
+[0000.64] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.64] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.66] Log: Shader platform (RHI): PC-D3D-SM3
+[0001.00] Log: PhysX GPU Support: DISABLED
+[0001.02] Log: Initializing FaceFX...
+[0001.02] Log: FaceFX 1.7.4 initialized.
+[0019.51] Log: Finished loading startup packages in 18.19 seconds
+[0019.53] Log: 154396 objects as part of root set at end of initial load.
+[0019.53] Log: Initializing Engine...
+[0019.80] Log: UEngine initialized
+[0020.84] Log: AK Audio Device initialized.
+[0021.07] Log: Client initialized
+[0024.10] Log: Initializing Steamworks
+[0026.76] Log: Primary PhysX scene will be in software.
+[0026.76] Log: Creating Primary PhysX Scene.
+[0027.04] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.18-16.04.31
+[0027.30] Log: Bringing up level for play took: 0.924914
+[0027.50] Log: Game engine initialized
+[0027.56] Log: Initializing Engine Completed
+[0036.00] Log: >>>>>>>>>>>>>> Initial startup: 36.00s <<<<<<<<<<<<<<<
+[0181.69] Log: Primary PhysX scene will be in software.
+[0181.69] Log: Creating Primary PhysX Scene.
+[0181.76] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.18-16.07.05
+[0181.76] Log: Bringing up level for play took: 0.088198
+[0182.08] Log: Primary PhysX scene will be in software.
+[0182.08] Log: Creating Primary PhysX Scene.
+[0182.11] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.18-16.07.06
+[0182.12] Log: Bringing up level for play took: 0.043651
+[0182.12] Log: Using cached profile data instead of reading
+[0182.12] Log: Using cached profile data instead of reading
+[1493.19] Log: Wrote profile (657 bytes) to disk.
+[1592.07] Log: Primary PhysX scene will be in software.
+[1592.07] Log: Creating Primary PhysX Scene.
+[1908.54] Log: Wrote profile (657 bytes) to disk.
+[2155.01] Log: Primary PhysX scene will be in software.
+[2155.01] Log: Creating Primary PhysX Scene.
+[2572.07] Log: Primary PhysX scene will be in software.
+[2572.07] Log: Creating Primary PhysX Scene.
+[2636.89] Log: Primary PhysX scene will be in software.
+[2636.89] Log: Creating Primary PhysX Scene.
+[3122.62] Log: Primary PhysX scene will be in software.
+[3122.62] Log: Creating Primary PhysX Scene.
+[3122.73] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.18-16.56.06
+[3122.88] Log: Bringing up level for play took: 1.860164
+[3122.89] Log: Using cached profile data instead of reading
+[3123.04] Log: Using cached profile data instead of reading
+[3158.26] Log: Primary PhysX scene will be in software.
+[3158.26] Log: Creating Primary PhysX Scene.
+[3158.32] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.18-16.56.42
+[3158.33] Log: Bringing up level for play took: 0.098804
+[3158.84] Log: Primary PhysX scene will be in software.
+[3158.84] Log: Creating Primary PhysX Scene.
+[3158.90] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.18-16.56.43
+[3158.94] Log: Bringing up level for play took: 0.119692
+[3158.94] Log: Using cached profile data instead of reading
+[3158.95] Log: Using cached profile data instead of reading
+[3180.87] Log: Wrote profile (657 bytes) to disk.
+[3502.33] Log: Wrote profile (657 bytes) to disk.
+[3682.63] Log: Wrote profile (657 bytes) to disk.
+[3692.74] Log: Primary PhysX scene will be in software.
+[3692.74] Log: Creating Primary PhysX Scene.
+[4515.94] Log: Wrote profile (657 bytes) to disk.
+[4968.33] Log: Wrote profile (658 bytes) to disk.
+[5391.12] Log: Wrote profile (658 bytes) to disk.
+[5394.66] Log: Primary PhysX scene will be in software.
+[5394.66] Log: Creating Primary PhysX Scene.
+[6443.76] Log: Wrote profile (662 bytes) to disk.
+[6789.66] Log: Wrote profile (662 bytes) to disk.
+[7121.73] Log: Wrote profile (662 bytes) to disk.
+[7649.78] Log: Wrote profile (662 bytes) to disk.
+[8068.63] Log: Wrote profile (662 bytes) to disk.
+[8256.53] Log: Wrote profile (662 bytes) to disk.
+[8571.32] Log: Wrote profile (662 bytes) to disk.
+[8961.31] Log: Primary PhysX scene will be in software.
+[8961.31] Log: Creating Primary PhysX Scene.
+[9123.47] Log: Wrote profile (662 bytes) to disk.
+[9575.09] Log: Wrote profile (662 bytes) to disk.
+[9579.70] Log: Primary PhysX scene will be in software.
+[9579.70] Log: Creating Primary PhysX Scene.
+[9580.00] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.18-18.43.44
+[9580.10] Log: Bringing up level for play took: 2.058238
+[9580.10] Log: Using cached profile data instead of reading
+[9580.17] Log: Using cached profile data instead of reading
+[11900.23] Log: Primary PhysX scene will be in software.
+[11900.23] Log: Creating Primary PhysX Scene.
+[11900.29] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.18-19.22.24
+[11900.30] Log: Bringing up level for play took: 0.098181
+[11900.81] Log: Primary PhysX scene will be in software.
+[11900.81] Log: Creating Primary PhysX Scene.
+[11900.87] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.18-19.22.25
+[11900.91] Log: Bringing up level for play took: 0.124778
+[11900.91] Log: Using cached profile data instead of reading
+[11900.92] Log: Using cached profile data instead of reading
+[11922.99] Log: Wrote profile (661 bytes) to disk.
+[12703.26] Log: Wrote profile (661 bytes) to disk.
+[13694.03] Log: Wrote profile (661 bytes) to disk.
+[14594.33] Log: Primary PhysX scene will be in software.
+[14594.33] Log: Creating Primary PhysX Scene.
+[14617.12] Log: Wrote profile (661 bytes) to disk.
+[14631.34] Log: Primary PhysX scene will be in software.
+[14631.34] Log: Creating Primary PhysX Scene.
+[14631.47] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.18-20.07.55
+[14631.52] Log: Bringing up level for play took: 1.778968
+[14631.52] Log: Using cached profile data instead of reading
+[14631.55] Log: Using cached profile data instead of reading
+[14662.65] Log: Primary PhysX scene will be in software.
+[14662.65] Log: Creating Pri

@@ -1,0 +1,85 @@
+Log: Log file open, 01/04/17 09:19:09
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: F:\Borderlands2\Borderlands.2.GOTY.ALL.DLC.CHS.9.0.Green.Edition-ALI213\Borderlands.2.GOTY\Binaries\Win32\
+[0000.40] Log: CPU Page size=4096, Processors=4
+[0000.40] Log: High frequency timer resolution =2.338486 MHz
+[0000.40] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0000.40] Log: STEAMWORKS initialized 1
+[0000.41] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.41] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.42] Log: Object subsystem initialized
+[0000.42] Log:   Steamworks-provided language string: english
+[0000.80] Log: OS stats:
+[0000.80] Log: 	Windows 7 Service Pack 1
+[0000.80] Log: 	RemoteDesktop=0
+[0000.80] Log: Memory stats:
+[0000.80] Log: 	Physical: 3141MB
+[0000.80] Log: 	Virtual: 2047MB
+[0000.80] Log: 	PageFile: 6280MB
+[0000.80] Log: CPU stats:
+[0000.80] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0000.80] Log: 	Hyperthreaded: 1
+[0000.80] Log: 	NumProcessorsPerCPU: 1
+[0000.80] Log: 	NumLogicalProcessors: 4
+[0000.80] Log: 	NumPhysicalProcessors: 8
+[0000.80] Log: 	MaxSpeed: 2401
+[0000.80] Log: 	CurrentSpeed: 2401
+[0000.80] Log: 	CoresPerProcessor: 8
+[0000.80] Log: 	IsOnBattery: 0
+[0000.80] Log: 	BatteryLevel: 95
+[0000.80] Log: 	Manufacturer: Intel
+[0000.80] Log: 	CPUName: INTEL Pentium-III
+[0000.80] Log: 	L1CacheSize: -1
+[0000.80] Log: 	L2CacheSize: -1
+[0000.80] Log: 	Architecture: x86
+[0000.80] Log: GPU stats:
+[0000.80] Log: 	VendorID: 000010DE
+[0000.80] Log: 	DeviceID: 00000DF4
+[0000.80] Log: 	DriverVersion: 9.18.13.4448
+[0000.80] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0000.80] Log: 	DriverName: nvumdshim.dll
+[0000.80] Log: 	PixelShaderVersion: 3
+[0000.80] Log: 	VertexShaderVersion: 3
+[0000.80] Log: 	VRAMQuantity: 1024
+[0000.80] Log: 	DedicatedVRAM: 977
+[0000.80] Log: 	AdapterCount: 1
+[0000.80] Log: 	SupportsHardwareTnL: 1
+[0000.80] Log: 	IsLowMemoryXPMachine: 0
+[0000.80] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.80] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.82] Log: Shader platform (RHI): PC-D3D-SM3
+[0001.34] Log: PhysX GPU Support: DISABLED
+[0001.54] Log: Initializing FaceFX...
+[0001.55] Log: FaceFX 1.7.4 initialized.
+[0020.22] Log: Finished loading startup packages in 17.93 seconds
+[0020.24] Log: 154396 objects as part of root set at end of initial load.
+[0020.24] Log: Initializing Engine...
+[0020.28] Log: UEngine initialized
+[0021.74] Log: AK Audio Device initialized.
+[0022.12] Log: Client initialized
+[0024.83] Log: Initializing Steamworks
+[0026.64] Log: Primary PhysX scene will be in software.
+[0026.64] Log: Creating Primary PhysX Scene.
+[0026.84] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.04-09.19.36
+[0026.89] Log: Bringing up level for play took: 0.602076
+[0026.96] Log: Game engine initialized
+[0027.13] Log: Initializing Engine Completed
+[0035.93] Log: >>>>>>>>>>>>>> Initial startup: 35.93s <<<<<<<<<<<<<<<
+[0111.56] Log: Primary PhysX scene will be in software.
+[0111.56] Log: Creating Primary PhysX Scene.
+[0111.58] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.04-09.21.01
+[0111.58] Log: Bringing up level for play took: 0.034725
+[0111.77] Log: Primary PhysX scene will be in software.
+[0111.77] Log: Creating Primary PhysX Scene.
+[0111.80] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.04-09.21.01
+[0111.82] Log: Bringing up level for play took: 0.058580
+[0111.82] Log: Using cached profile data instead of reading
+[0111.82] Log: Using cached profile data instead of reading
+[2387.26] Log: Wrote profile (376 bytes) to disk.
+[2390.26] Log: Primary PhysX scene will be in software.
+[2390.26] Log: Creating Primary PhysX Scene.
+[2390.30] Log: Bringing World menumap.TheWor

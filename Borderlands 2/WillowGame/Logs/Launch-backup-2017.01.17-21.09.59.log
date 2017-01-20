@@ -1,0 +1,87 @@
+Log: Log file open, 01/17/17 19:24:10
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: I:\1P\8\Borderlands.2.GOTY\Binaries\Win32\
+[0003.98] Log: CPU Page size=4096, Processors=4
+[0003.98] Log: High frequency timer resolution =2.338457 MHz
+[0003.98] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0003.98] Log: STEAMWORKS initialized 1
+[0004.01] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0004.04] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0004.43] Log: Object subsystem initialized
+[0004.48] Log:   Steamworks-provided language string: english
+[0005.82] Log: OS stats:
+[0005.82] Log: 	Windows 7 Service Pack 1
+[0005.82] Log: 	RemoteDesktop=0
+[0005.82] Log: Memory stats:
+[0005.82] Log: 	Physical: 3141MB
+[0005.82] Log: 	Virtual: 2047MB
+[0005.82] Log: 	PageFile: 6280MB
+[0005.82] Log: CPU stats:
+[0005.82] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0005.82] Log: 	Hyperthreaded: 1
+[0005.82] Log: 	NumProcessorsPerCPU: 1
+[0005.82] Log: 	NumLogicalProcessors: 4
+[0005.82] Log: 	NumPhysicalProcessors: 8
+[0005.82] Log: 	MaxSpeed: 2401
+[0005.82] Log: 	CurrentSpeed: 792
+[0005.82] Log: 	CoresPerProcessor: 8
+[0005.82] Log: 	IsOnBattery: 0
+[0005.82] Log: 	BatteryLevel: 100
+[0005.82] Log: 	Manufacturer: Intel
+[0005.82] Log: 	CPUName: INTEL Pentium-III
+[0005.82] Log: 	L1CacheSize: -1
+[0005.82] Log: 	L2CacheSize: -1
+[0005.82] Log: 	Architecture: x86
+[0005.82] Log: GPU stats:
+[0005.82] Log: 	VendorID: 000010DE
+[0005.82] Log: 	DeviceID: 00000DF4
+[0005.82] Log: 	DriverVersion: 9.18.13.4448
+[0005.82] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0005.82] Log: 	DriverName: nvumdshim.dll
+[0005.82] Log: 	PixelShaderVersion: 3
+[0005.82] Log: 	VertexShaderVersion: 3
+[0005.82] Log: 	VRAMQuantity: 1024
+[0005.82] Log: 	DedicatedVRAM: 977
+[0005.82] Log: 	AdapterCount: 1
+[0005.82] Log: 	SupportsHardwareTnL: 1
+[0005.82] Log: 	IsLowMemoryXPMachine: 0
+[0005.82] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.82] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.97] Log: Shader platform (RHI): PC-D3D-SM3
+[0008.50] Log: PhysX GPU Support: DISABLED
+[0008.72] Log: Initializing FaceFX...
+[0008.74] Log: FaceFX 1.7.4 initialized.
+[0027.83] Log: Finished loading startup packages in 18.20 seconds
+[0027.85] Log: 154396 objects as part of root set at end of initial load.
+[0027.85] Log: Initializing Engine...
+[0028.05] Log: UEngine initialized
+[0029.12] Log: AK Audio Device initialized.
+[0029.23] Log: Client initialized
+[0031.77] Log: Initializing Steamworks
+[0033.62] Log: Primary PhysX scene will be in software.
+[0033.62] Log: Creating Primary PhysX Scene.
+[0033.85] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.17-19.24.40
+[0033.93] Log: Bringing up level for play took: 0.732527
+[0034.03] Log: Game engine initialized
+[0034.08] Log: Initializing Engine Completed
+[0034.57] Log: >>>>>>>>>>>>>> Initial startup: 34.57s <<<<<<<<<<<<<<<
+[0080.55] Log: Primary PhysX scene will be in software.
+[0080.55] Log: Creating Primary PhysX Scene.
+[0080.57] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.17-19.25.27
+[0080.57] Log: Bringing up level for play took: 0.025918
+[0080.70] Log: Primary PhysX scene will be in software.
+[0080.70] Log: Creating Primary PhysX Scene.
+[0080.75] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.17-19.25.27
+[0080.76] Log: Bringing up level for play took: 0.061187
+[0080.76] Log: Using cached profile data instead of reading
+[0080.76] Log: Using cached profile data instead of reading
+[0626.02] Log: Primary PhysX scene will be in software.
+[0626.02] Log: Creating Primary PhysX Scene.
+[0637.83] Log: Wrote profile (606 bytes) to disk.
+[0711.84] Log: Primary PhysX scene will be in software.
+[0711.84] Log: Creating Primary PhysX Scene.
+[138

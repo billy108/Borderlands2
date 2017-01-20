@@ -1,0 +1,86 @@
+Log: Log file open, 01/02/17 03:03:39
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: F:\Borderlands2\Borderlands.2.GOTY.ALL.DLC.CHS.9.0.Green.Edition-ALI213\Borderlands.2.GOTY\Binaries\Win32\
+[0002.55] Log: CPU Page size=4096, Processors=4
+[0002.55] Log: High frequency timer resolution =2.338476 MHz
+[0002.55] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0002.55] Log: STEAMWORKS initialized 1
+[0002.56] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0002.56] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0002.56] Log: Object subsystem initialized
+[0002.56] Log:   Steamworks-provided language string: english
+[0017.18] Log: OS stats:
+[0017.18] Log: 	Windows 7 Service Pack 1
+[0017.18] Log: 	RemoteDesktop=0
+[0017.18] Log: Memory stats:
+[0017.18] Log: 	Physical: 3141MB
+[0017.18] Log: 	Virtual: 2047MB
+[0017.18] Log: 	PageFile: 6280MB
+[0017.18] Log: CPU stats:
+[0017.18] Log: 	MeasuredPerformanceTime: 144.703 (measured now)
+[0017.18] Log: 	Hyperthreaded: 1
+[0017.18] Log: 	NumProcessorsPerCPU: 1
+[0017.18] Log: 	NumLogicalProcessors: 4
+[0017.18] Log: 	NumPhysicalProcessors: 8
+[0017.18] Log: 	MaxSpeed: 2401
+[0017.18] Log: 	CurrentSpeed: 792
+[0017.18] Log: 	CoresPerProcessor: 8
+[0017.18] Log: 	IsOnBattery: 0
+[0017.18] Log: 	BatteryLevel: 98
+[0017.18] Log: 	Manufacturer: Intel
+[0017.18] Log: 	CPUName: INTEL Pentium-III
+[0017.18] Log: 	L1CacheSize: -1
+[0017.18] Log: 	L2CacheSize: -1
+[0017.18] Log: 	Architecture: x86
+[0017.18] Log: GPU stats:
+[0017.18] Log: 	VendorID: 000010DE
+[0017.18] Log: 	DeviceID: 00000DF4
+[0017.18] Log: 	DriverVersion: 9.18.13.4448
+[0017.18] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0017.18] Log: 	DriverName: nvumdshim.dll
+[0017.18] Log: 	PixelShaderVersion: 3
+[0017.18] Log: 	VertexShaderVersion: 3
+[0017.18] Log: 	VRAMQuantity: 1024
+[0017.18] Log: 	DedicatedVRAM: 977
+[0017.18] Log: 	AdapterCount: 1
+[0017.18] Log: 	SupportsHardwareTnL: 1
+[0017.18] Log: 	IsLowMemoryXPMachine: 0
+[0017.22] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0017.22] Log: Previous detected compatibility level: Composite: 0. CPU: 0. GPU: 0.
+[0017.25] Log: Writing new compatibility level to ini. Composite: 4. CPU: 5. GPU: 4.
+[0018.75] Log: Shader platform (RHI): PC-D3D-SM3
+[0028.10] Log: PhysX GPU Support: DISABLED
+[0028.24] Log: Initializing FaceFX...
+[0028.28] Log: FaceFX 1.7.4 initialized.
+[0045.50] Log: Finished loading startup packages in 16.69 seconds
+[0045.52] Log: 154396 objects as part of root set at end of initial load.
+[0045.52] Log: Initializing Engine...
+[0045.64] Log: UEngine initialized
+[0047.29] Log: AK Audio Device initialized.
+[0048.15] Log: Client initialized
+[0052.96] Log: Initializing Steamworks
+[0054.96] Log: Primary PhysX scene will be in software.
+[0054.96] Log: Creating Primary PhysX Scene.
+[0055.21] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.02-03.04.32
+[0055.29] Log: Bringing up level for play took: 0.736607
+[0055.32] Log: First time reading profile.
+[0055.33] Log: Wrote profile (352 bytes) to disk.
+[0055.33] Log: TUPC: nd
+[0055.34] Log: Game engine initialized
+[0055.53] Log: Initializing Engine Completed
+[0071.66] Log: >>>>>>>>>>>>>> Initial startup: 71.66s <<<<<<<<<<<<<<<
+[0157.75] Log: Wrote profile (357 bytes) to disk.
+[0175.45] Log: Primary PhysX scene will be in software.
+[0175.45] Log: Creating Primary PhysX Scene.
+[0175.50] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.02-03.06.32
+[0175.51] Log: Bringing up level for play took: 0.069401
+[0176.04] Log: Primary PhysX scene will be in software.
+[0176.04] Log: Creating Primary PhysX Scene.
+[0176.17] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.02-03.06.33
+[0176.20] Log: Bringing up level for play took: 0.179298
+[0176.20] Log: Using cached profile data instead of reading
+[017

@@ -1,0 +1,87 @@
+Log: Log file open, 01/12/17 18:39:01
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: I:\1P\8\Borderlands.2.GOTY\Binaries\Win32\
+[0004.28] Log: CPU Page size=4096, Processors=4
+[0004.28] Log: High frequency timer resolution =2.338476 MHz
+[0004.28] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0004.29] Log: STEAMWORKS initialized 1
+[0004.31] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0004.34] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0004.73] Log: Object subsystem initialized
+[0004.79] Log:   Steamworks-provided language string: english
+[0006.64] Log: OS stats:
+[0006.64] Log: 	Windows 7 Service Pack 1
+[0006.64] Log: 	RemoteDesktop=0
+[0006.64] Log: Memory stats:
+[0006.64] Log: 	Physical: 3141MB
+[0006.64] Log: 	Virtual: 2047MB
+[0006.64] Log: 	PageFile: 6280MB
+[0006.64] Log: CPU stats:
+[0006.64] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0006.64] Log: 	Hyperthreaded: 1
+[0006.64] Log: 	NumProcessorsPerCPU: 1
+[0006.64] Log: 	NumLogicalProcessors: 4
+[0006.64] Log: 	NumPhysicalProcessors: 8
+[0006.64] Log: 	MaxSpeed: 2401
+[0006.64] Log: 	CurrentSpeed: 1776
+[0006.64] Log: 	CoresPerProcessor: 8
+[0006.64] Log: 	IsOnBattery: 0
+[0006.64] Log: 	BatteryLevel: 95
+[0006.64] Log: 	Manufacturer: Intel
+[0006.64] Log: 	CPUName: INTEL Pentium-III
+[0006.64] Log: 	L1CacheSize: -1
+[0006.64] Log: 	L2CacheSize: -1
+[0006.64] Log: 	Architecture: x86
+[0006.64] Log: GPU stats:
+[0006.64] Log: 	VendorID: 000010DE
+[0006.64] Log: 	DeviceID: 00000DF4
+[0006.64] Log: 	DriverVersion: 9.18.13.4448
+[0006.64] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0006.64] Log: 	DriverName: nvumdshim.dll
+[0006.64] Log: 	PixelShaderVersion: 3
+[0006.64] Log: 	VertexShaderVersion: 3
+[0006.64] Log: 	VRAMQuantity: 1024
+[0006.64] Log: 	DedicatedVRAM: 977
+[0006.64] Log: 	AdapterCount: 1
+[0006.64] Log: 	SupportsHardwareTnL: 1
+[0006.64] Log: 	IsLowMemoryXPMachine: 0
+[0006.64] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0006.64] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0006.85] Log: Shader platform (RHI): PC-D3D-SM3
+[0009.11] Log: PhysX GPU Support: DISABLED
+[0009.34] Log: Initializing FaceFX...
+[0009.37] Log: FaceFX 1.7.4 initialized.
+[0028.11] Log: Finished loading startup packages in 17.95 seconds
+[0028.13] Log: 154396 objects as part of root set at end of initial load.
+[0028.13] Log: Initializing Engine...
+[0028.24] Log: UEngine initialized
+[0029.39] Log: AK Audio Device initialized.
+[0029.92] Log: Client initialized
+[0034.20] Log: Initializing Steamworks
+[0035.81] Log: Primary PhysX scene will be in software.
+[0035.81] Log: Creating Primary PhysX Scene.
+[0036.02] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.12-18.39.33
+[0036.10] Log: Bringing up level for play took: 0.591816
+[0036.46] Log: Game engine initialized
+[0036.52] Log: Initializing Engine Completed
+[0036.55] Log: >>>>>>>>>>>>>> Initial startup: 36.55s <<<<<<<<<<<<<<<
+[0090.44] Log: Primary PhysX scene will be in software.
+[0090.44] Log: Creating Primary PhysX Scene.
+[0090.46] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.12-18.40.27
+[0090.46] Log: Bringing up level for play took: 0.032629
+[0090.59] Log: Primary PhysX scene will be in software.
+[0090.59] Log: Creating Primary PhysX Scene.
+[0090.64] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.12-18.40.28
+[0090.65] Log: Bringing up level for play took: 0.058402
+[0090.65] Log: Using cached profile data instead of reading
+[0090.65] Log: Using cached profile data instead of reading
+[0140.80] Log: Wrote profile (588 bytes) to disk.
+[0762.48] Log: Primary PhysX scene will be in software.
+[0762.48] Log: Creating Primary PhysX Scene.
+[0778.87] Log: Wrote profile (588 bytes) to disk.
+[0883.50] Log: Wrote profile (591 bytes) to disk.
+[1175

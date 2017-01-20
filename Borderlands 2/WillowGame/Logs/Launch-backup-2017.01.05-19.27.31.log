@@ -1,0 +1,85 @@
+Log: Log file open, 01/04/17 12:51:20
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: F:\Borderlands2\Borderlands.2.GOTY.ALL.DLC.CHS.9.0.Green.Edition-ALI213\Borderlands.2.GOTY\Binaries\Win32\
+[0000.40] Log: CPU Page size=4096, Processors=4
+[0000.40] Log: High frequency timer resolution =2.338486 MHz
+[0000.40] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0000.40] Log: STEAMWORKS initialized 1
+[0000.42] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.42] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.42] Log: Object subsystem initialized
+[0000.42] Log:   Steamworks-provided language string: english
+[0001.08] Log: OS stats:
+[0001.08] Log: 	Windows 7 Service Pack 1
+[0001.08] Log: 	RemoteDesktop=0
+[0001.08] Log: Memory stats:
+[0001.08] Log: 	Physical: 3141MB
+[0001.08] Log: 	Virtual: 2047MB
+[0001.08] Log: 	PageFile: 6280MB
+[0001.08] Log: CPU stats:
+[0001.08] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0001.08] Log: 	Hyperthreaded: 1
+[0001.08] Log: 	NumProcessorsPerCPU: 1
+[0001.08] Log: 	NumLogicalProcessors: 4
+[0001.08] Log: 	NumPhysicalProcessors: 8
+[0001.08] Log: 	MaxSpeed: 2401
+[0001.08] Log: 	CurrentSpeed: 1992
+[0001.08] Log: 	CoresPerProcessor: 8
+[0001.08] Log: 	IsOnBattery: 0
+[0001.08] Log: 	BatteryLevel: 95
+[0001.08] Log: 	Manufacturer: Intel
+[0001.08] Log: 	CPUName: INTEL Pentium-III
+[0001.08] Log: 	L1CacheSize: -1
+[0001.08] Log: 	L2CacheSize: -1
+[0001.08] Log: 	Architecture: x86
+[0001.08] Log: GPU stats:
+[0001.08] Log: 	VendorID: 000010DE
+[0001.08] Log: 	DeviceID: 00000DF4
+[0001.08] Log: 	DriverVersion: 9.18.13.4448
+[0001.08] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0001.08] Log: 	DriverName: nvumdshim.dll
+[0001.08] Log: 	PixelShaderVersion: 3
+[0001.08] Log: 	VertexShaderVersion: 3
+[0001.08] Log: 	VRAMQuantity: 1024
+[0001.08] Log: 	DedicatedVRAM: 977
+[0001.08] Log: 	AdapterCount: 1
+[0001.08] Log: 	SupportsHardwareTnL: 1
+[0001.08] Log: 	IsLowMemoryXPMachine: 0
+[0001.08] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0001.08] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0001.15] Log: Shader platform (RHI): PC-D3D-SM3
+[0001.30] Log: PhysX GPU Support: DISABLED
+[0001.31] Log: Initializing FaceFX...
+[0001.31] Log: FaceFX 1.7.4 initialized.
+[0020.76] Log: Finished loading startup packages in 19.15 seconds
+[0020.78] Log: 154396 objects as part of root set at end of initial load.
+[0020.78] Log: Initializing Engine...
+[0021.12] Log: UEngine initialized
+[0022.17] Log: AK Audio Device initialized.
+[0023.15] Log: Client initialized
+[0032.99] Log: Initializing Steamworks
+[0036.02] Log: Primary PhysX scene will be in software.
+[0036.02] Log: Creating Primary PhysX Scene.
+[0036.35] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.04-12.51.56
+[0036.60] Log: Bringing up level for play took: 0.965044
+[0036.84] Log: Game engine initialized
+[0036.93] Log: Initializing Engine Completed
+[0037.42] Log: >>>>>>>>>>>>>> Initial startup: 37.42s <<<<<<<<<<<<<<<
+[0178.99] Log: Primary PhysX scene will be in software.
+[0178.99] Log: Creating Primary PhysX Scene.
+[0179.04] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.04-12.54.19
+[0179.05] Log: Bringing up level for play took: 0.073112
+[0179.41] Log: Primary PhysX scene will be in software.
+[0179.41] Log: Creating Primary PhysX Scene.
+[0179.48] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.04-12.54.19
+[0179.51] Log: Bringing up level for play took: 0.116890
+[0179.51] Log: Using cached profile data instead of reading
+[0179.52] Log: Using cached profile data instead of reading
+[2256.93] Log: Wrote profile (377 bytes) to disk.
+[2765.70] Log: Wrote profile (416 bytes) to disk.
+[2874.21] Log: Primary PhysX scene will be in software.
+[2874.21] Log: Creating Primary PhysX S

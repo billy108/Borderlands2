@@ -1,0 +1,86 @@
+Log: Log file open, 01/17/17 21:09:59
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8631
+Log: Compiled (32-bit): Sep 25 2013 19:23:54
+Log: Changelist: 770068
+Log: Command line: 
+Log: Base directory: I:\1P\8\Borderlands.2.GOTY\Binaries\Win32\
+[0003.60] Log: CPU Page size=4096, Processors=4
+[0003.60] Log: High frequency timer resolution =2.338457 MHz
+[0003.60] Log: Memory total: Physical=3.1GB Pagefile=6.1GB Virtual=2.0GB
+[0003.60] Log: STEAMWORKS initialized 1
+[0003.63] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0003.63] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0004.03] Log: Object subsystem initialized
+[0004.10] Log:   Steamworks-provided language string: english
+[0005.16] Log: OS stats:
+[0005.16] Log: 	Windows 7 Service Pack 1
+[0005.16] Log: 	RemoteDesktop=0
+[0005.16] Log: Memory stats:
+[0005.16] Log: 	Physical: 3141MB
+[0005.16] Log: 	Virtual: 2047MB
+[0005.16] Log: 	PageFile: 6280MB
+[0005.16] Log: CPU stats:
+[0005.16] Log: 	MeasuredPerformanceTime: 144.703 (stored result)
+[0005.16] Log: 	Hyperthreaded: 1
+[0005.16] Log: 	NumProcessorsPerCPU: 1
+[0005.16] Log: 	NumLogicalProcessors: 4
+[0005.16] Log: 	NumPhysicalProcessors: 8
+[0005.16] Log: 	MaxSpeed: 2401
+[0005.16] Log: 	CurrentSpeed: 792
+[0005.16] Log: 	CoresPerProcessor: 8
+[0005.16] Log: 	IsOnBattery: 0
+[0005.16] Log: 	BatteryLevel: 100
+[0005.16] Log: 	Manufacturer: Intel
+[0005.16] Log: 	CPUName: INTEL Pentium-III
+[0005.16] Log: 	L1CacheSize: -1
+[0005.16] Log: 	L2CacheSize: -1
+[0005.16] Log: 	Architecture: x86
+[0005.16] Log: GPU stats:
+[0005.16] Log: 	VendorID: 000010DE
+[0005.16] Log: 	DeviceID: 00000DF4
+[0005.16] Log: 	DriverVersion: 9.18.13.4448
+[0005.16] Log: 	DeviceName: NVIDIA GeForce GT 540M             
+[0005.16] Log: 	DriverName: nvumdshim.dll
+[0005.16] Log: 	PixelShaderVersion: 3
+[0005.16] Log: 	VertexShaderVersion: 3
+[0005.16] Log: 	VRAMQuantity: 1024
+[0005.16] Log: 	DedicatedVRAM: 977
+[0005.16] Log: 	AdapterCount: 1
+[0005.16] Log: 	SupportsHardwareTnL: 1
+[0005.16] Log: 	IsLowMemoryXPMachine: 0
+[0005.16] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.16] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.28] Log: Shader platform (RHI): PC-D3D-SM3
+[0007.79] Log: PhysX GPU Support: DISABLED
+[0008.00] Log: Initializing FaceFX...
+[0008.03] Log: FaceFX 1.7.4 initialized.
+[0027.40] Log: Finished loading startup packages in 18.53 seconds
+[0027.42] Log: 154396 objects as part of root set at end of initial load.
+[0027.42] Log: Initializing Engine...
+[0027.52] Log: UEngine initialized
+[0028.44] Log: AK Audio Device initialized.
+[0028.54] Log: Client initialized
+[0031.04] Log: Initializing Steamworks
+[0032.92] Log: Primary PhysX scene will be in software.
+[0032.92] Log: Creating Primary PhysX Scene.
+[0033.16] Log: Bringing World menumap.TheWorld up for play (0) at 2017.01.17-21.10.29
+[0033.26] Log: Bringing up level for play took: 0.638128
+[0033.32] Log: Game engine initialized
+[0033.37] Log: Initializing Engine Completed
+[0038.16] Log: >>>>>>>>>>>>>> Initial startup: 38.16s <<<<<<<<<<<<<<<
+[0124.83] Log: Primary PhysX scene will be in software.
+[0124.83] Log: Creating Primary PhysX Scene.
+[0124.89] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2017.01.17-21.12.01
+[0124.90] Log: Bringing up level for play took: 0.085617
+[0125.41] Log: Primary PhysX scene will be in software.
+[0125.41] Log: Creating Primary PhysX Scene.
+[0125.54] Log: Bringing World Loader.TheWorld up for play (0) at 2017.01.17-21.12.01
+[0125.58] Log: Bringing up level for play took: 0.197798
+[0125.58] Log: Using cached profile data instead of reading
+[0125.59] Log: Using cached profile data instead of reading
+[0497.67] Log: Wrote profile (606 bytes) to disk.
+[0521.23] Log: Primary PhysX scene will be in software.
+[0521.23] Log: Creating Primary PhysX Scene.
+[0686.37] Log: Wrote profile (606 bytes) to disk.
+[0691.55] Log: Primary PhysX scene will be in software.
